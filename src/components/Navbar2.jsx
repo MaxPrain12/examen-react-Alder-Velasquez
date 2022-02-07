@@ -1,7 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, Offcanvas, Container } from 'react-bootstrap';
 
-class Navbar extends React.Component {
+class Navbar2 extends React.Component {
   constructor(props) {
     super(props);
   }
@@ -34,4 +34,4 @@ class Navbar extends React.Component {
     );
   }
 }
-export default Navbar;
+export default Navbar2;
