@@ -13,7 +13,7 @@ class Ejercicio3 extends React.Component {
           <li>
             Utiliza la API REST de{' '}
             <a href="https://openlibra.com/es/page/public-api">OpenLibra.com</a>{' '}
-            para obtener datos acerca de libros. La petición tendrá que incluir
+            para obtener datos acerca de libros. La petición tendrá que isncluir
             los siguientes parámetros:<b> - 1,5 puntos</b>
           </li>
           <ul>
